@@ -35,6 +35,8 @@ public class ParseJsonExample {
 		System.out.print("skill: ");
 		for(int i=0; i<skill.length();i++) {
 			System.out.print(skill.get(i) + "    ");
-		}		
+		}	
+
+		//프레시맨이 코드를 추가합니다.	
 	}
 }
