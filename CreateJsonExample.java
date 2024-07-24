@@ -42,6 +42,9 @@ public class CreateJsonExample {
 		Writer writer = new FileWriter("C:/Temp/member.json", Charset.forName("UTF-8"));
 		writer.write(json);
 		writer.flush();
-		writer.close();		
+		writer.close();
+	
+// 새로운 내용을 추가합니다.
+	
 	}
 }
