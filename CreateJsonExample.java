@@ -35,6 +35,10 @@ public class CreateJsonExample {
 		
 		// JSON 얻기
 		String json = root.toString();
+
+		// 프레시맨이 코드를 추가합니다.
+		// 프레시맨이 코드를 추가합니다.
+// 프레시맨이 코드를 추가합니다.
 		
 		System.out.println(json); //콘솔에 출력
 		
