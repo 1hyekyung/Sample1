@@ -49,6 +49,7 @@ public class CreateJsonExample {
 		writer.close();
 	
 // 새로운 내용을 추가합니다.
+// 본인이 새로운 내용을 추가합니다.
 	
 	}
 }

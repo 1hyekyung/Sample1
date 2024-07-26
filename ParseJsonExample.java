@@ -38,5 +38,7 @@ public class ParseJsonExample {
 		}	
 
 		//프레시맨이 코드를 추가합니다.	
+
+		//본인이 내용을 추가합니다.
 	}
 }
